@@ -7,7 +7,7 @@ I’m an M.Tech student at **Indraprastha Institute of Information Technology, D
 - **B.Tech in Computer Science Engineering**, Shri Shankaracharya Technical Campus, Bhilai (2020 - 2024)  
   **CPI**: 8.37
 - **High School**, Krishna Public School, Bhilai  
-  **Percentage**: 76%
+  **Percentage**: 80.3%
 
 ## 🔧 Technologies & Tools:
 - **Languages**: C, C++, Python, SQL, HTML, CSS
