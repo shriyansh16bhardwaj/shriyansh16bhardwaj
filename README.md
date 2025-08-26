@@ -24,10 +24,6 @@ I’m an M.Tech student at **Indraprastha Institute of Information Technology, D
 ## 🌱 What I'm Learning:
 - **AI & Machine Learning** applications in Healthcare
 - **Kubernetes & Docker** for Cloud Native Applications
-
-## 📊 GitHub Stats:
-![Shriyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shriyansh16bhardwaj&show_icons=true)
-
 ## 🚀 Projects:
 - **[Video Compression & Decompression]([https://github.com/shriyansh16bhardwaj/video-compression](https://github.com/shriyansh16bhardwaj/Video-compression-using-classical-Machine-Learning))**  
   Developed a computer vision pipeline for generating compact video summaries using optical flow and JPEG compression.  
