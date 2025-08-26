@@ -3,7 +3,7 @@ I’m an M.Tech student at **Indraprastha Institute of Information Technology, D
 
 ## 🎓 Education:
 - **M.Tech in Computer Science**, IIIT Delhi (2024 - Present)  
-  **CGPA**: 7.13
+  **CGPA**: 7.74
 - **B.Tech in Computer Science Engineering**, Shri Shankaracharya Technical Campus, Bhilai (2020 - 2024)  
   **CPI**: 8.37
 - **High School**, Krishna Public School, Bhilai  
